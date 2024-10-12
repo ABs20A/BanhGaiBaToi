@@ -326,6 +326,13 @@ a.link-map:hover .map-img {
     .content-folow h3 {
         font-size: 22px;
     }
+
+    .swiper-slide {
+        background-position: center;
+        background-size: cover;
+        width: 300px;
+        height: 300px;
+    }
 }
 
 .col-md-4.address {
