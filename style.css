@@ -315,9 +315,6 @@ a.link-map:hover .map-img {
     display: block;
 }
 
-
-@media only screen and (min-width: 320px) and (max-width: 860px) {}
-
 @media only screen and (max-width: 768px) {
     .header .col-12 {
         margin-bottom: 20px;
@@ -359,4 +356,26 @@ a.link-map:hover .map-img {
 
 .swiper-pagination.swiper-pagination-bullets.swiper-pagination-horizontal {
     display: none;
+}
+
+@media only screen and (max-width: 492px) {
+    .hotline-footer a {
+        font-size: 16px !important;
+    }
+
+    .hotline-footer {
+        position: fixed;
+        bottom: 30px;
+        left: 13px;
+        cursor: pointer;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 5px;
+        font-weight: 500;
+        background: #EB8317;
+        padding: 7px 13x;
+        border-radius: 20px;
+        z-index: 900;
+    }
 }
