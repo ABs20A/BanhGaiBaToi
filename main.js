@@ -14,7 +14,7 @@ var swiper = new Swiper(".mySwiper", {
     el: ".swiper-pagination",
   },
   autoplay: {
-    delay: 1000, // Thay đổi giá trị này để điều chỉnh tốc độ chuyển slide
+    delay: 60000, // Thay đổi giá trị này để điều chỉnh tốc độ chuyển slide
     disableOnInteraction: false, // Để autoplay không dừng khi người dùng tương tác
   },
   loop: true, // Đảm bảo vòng lặp qua các slide
