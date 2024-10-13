@@ -79,4 +79,7 @@ addresses.forEach(function(address) {
     });
 });
 
-
+// const daiLy = document.getElementById("phone-daily")
+// daiLy.addEventListener("click", () => {
+//   alert("0938402834")
+// })
