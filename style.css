@@ -330,6 +330,10 @@ a.link-map:hover .map-img {
         margin-bottom: 20px;
     }
 
+    .link-main-product {
+        padding-left: 19px;
+    }
+
     .content-folow h3 {
         font-size: 22px;
     }
@@ -453,5 +457,5 @@ a.link-map:hover .map-img {
 }
 
 .video-banhgaibatoi {
-    
+
 }
