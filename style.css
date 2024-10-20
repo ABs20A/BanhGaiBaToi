@@ -333,6 +333,10 @@ a.link-map:hover .map-img {
 }
 
 @media only screen and (max-width: 768px) {
+    .link-main-product {
+        margin-bottom: 20px;
+    }
+    
     .content-banhgailangnghe img {
         height: auto;
         width: 100%;
