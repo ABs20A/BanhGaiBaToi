@@ -336,7 +336,7 @@ a.link-map:hover .map-img {
     .link-main-product {
         margin-bottom: 20px;
     }
-    
+
     .content-banhgailangnghe img {
         height: auto;
         width: 100%;
@@ -431,11 +431,9 @@ a.link-map:hover .map-img {
 
 .link-main-product ul li img {
     width: 30px;
-    /* transform: rotate(180deg); */
     cursor: pointer;
 }
 
-.link-add-banhgai.sp-boy {}
 
 .link-website {
     padding-left: 15px;
@@ -464,14 +462,4 @@ a.link-map:hover .map-img {
 .content-banhgailangnghe img {
     height: auto;
     width: 100%;
-}
-
-
-/* .main-content-banhgai {
-    height: 700px;
-    overflow-y:auto;
-} */
-
-.video-banhgaibatoi {
-
 }
