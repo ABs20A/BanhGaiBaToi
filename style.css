@@ -389,3 +389,69 @@ a.link-map:hover .map-img {
         z-index: 900;
     }
 }
+
+.link-main-product ul li {
+    list-style: unset !important;
+}
+
+.link-main-product ul li a {
+    color: #000;
+}
+
+.link-main-product ::marker {
+    /* color: blue; */
+}
+
+#products-banhgai {
+    /* display: none; */
+}
+
+.link-main-product {
+    margin-top: 20px;
+}
+
+.link-main-product ul li img {
+    width: 30px;
+    /* transform: rotate(180deg); */
+    cursor: pointer;
+}
+
+.link-add-banhgai.sp-boy {}
+
+.link-website {
+    padding-left: 15px;
+}
+
+.link-website ul li {
+    list-style: auto;
+}
+
+.content-banhgailangnghe h6 {
+    font-weight: 700;
+}
+
+.content-banhgailangnghe span {
+    font-style: italic;
+    font-size: 14px;
+}
+
+.image-banhgailangnghe {
+    margin: 20px 0;
+    padding: 10px;
+    text-align: center;
+    background-color: #EEEEEE;
+}
+
+.content-banhgailangnghe img {
+    height: 400px;
+    width: auto;
+}
+
+.main-content-banhgai {
+    height: 700px;
+    overflow-y:auto;
+}
+
+.video-banhgaibatoi {
+    
+}
