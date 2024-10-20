@@ -319,6 +319,13 @@ a.link-map:hover .map-img {
     font-weight: 600;
 }
 
+@media only screen and (min-width: 768px) {
+    .main-content-banhgai {
+        height: 700px;
+        overflow-y: auto;
+    }
+}
+
 
 
 .showblock {
@@ -326,6 +333,10 @@ a.link-map:hover .map-img {
 }
 
 @media only screen and (max-width: 768px) {
+    .content-banhgailangnghe img {
+        height: auto;
+        width: 100%;
+    }
     .header .col-12 {
         margin-bottom: 20px;
     }
@@ -447,14 +458,15 @@ a.link-map:hover .map-img {
 }
 
 .content-banhgailangnghe img {
-    height: 400px;
-    width: auto;
+    height: auto;
+    width: 100%;
 }
 
-.main-content-banhgai {
+
+/* .main-content-banhgai {
     height: 700px;
     overflow-y:auto;
-}
+} */
 
 .video-banhgaibatoi {
 
